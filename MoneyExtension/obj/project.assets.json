@@ -15,7 +15,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "C:\\devCsharp\\MoneyExtension\\MoneyExtension\\MoneyExtension.csproj",
-      "projectName": "MoneyExtension",
+      "projectName": "MoneyExtensions",
       "projectPath": "C:\\devCsharp\\MoneyExtension\\MoneyExtension\\MoneyExtension.csproj",
       "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
       "outputPath": "C:\\devCsharp\\MoneyExtension\\MoneyExtension\\obj\\",
